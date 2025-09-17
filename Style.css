@@ -9,7 +9,7 @@
 
 
 body {
-    font-family: "inter", sans-serif;
+    font-family: "Lora", sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 0;
@@ -51,7 +51,7 @@ body {
     cursor: pointer;
     padding: 0.5rem 1rem;
     background-color: #FF0000;
-    color: rgb(247, 244, 244)255);
+    color: rgb(247, 244, 244);
     border-radius: 5px;
 }
 
@@ -101,7 +101,7 @@ body {
 /*Color y tamaño del area para la foto de perfil y resumen*/
 .profile-section {
     padding-top: 100px; /* Espacio para el header fijo */
-    background-color: rgb(133, 36, 36);
+    background-color: rgb(103, 15, 15);
 }
 
 /*Tamaño del titulo para estudios y experiencia*/
