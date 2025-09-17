@@ -71,13 +71,13 @@ body {
 }
 
 .accordion-nav .nav-link {
-    color: white; /* Cambiar color de los enlaces dentro del acordeón */
+    color: #FF0000; /* Cambiar color de los enlaces dentro del acordeón */
     padding: 0.5rem 0;
     display: block;
 }
 
 .accordion-nav .nav-link:hover {
-    color: var(--light-gray);
+    color: #000000;
 }
 
 /*Sección para cambiar color de las palabras en la barra de sección*/
@@ -278,3 +278,4 @@ del area de Estudios realizados y experiencia laboral*/
     }
 
 }
+
