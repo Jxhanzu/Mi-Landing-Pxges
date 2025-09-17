@@ -13,8 +13,8 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: var(--background-color);
-    color: #000000;
+    background-color: #000000;
+    color: #f4f4f4;
     scroll-behavior: smooth;
 }
 /*Sección para cambiar color de la barra de sección*/
@@ -50,7 +50,7 @@ body {
     list-style: none;
     cursor: pointer;
     padding: 0.5rem 1rem;
-    background-color: var(--primary-color);
+    background-color: #FF0000;
     color: rgb(247, 244, 244)255);
     border-radius: 5px;
 }
@@ -71,7 +71,7 @@ body {
 }
 
 .accordion-nav .nav-link {
-    color: #FF0000; /* Cambiar color de los enlaces dentro del acordeón */
+    color: #000000; /* Cambiar color de los enlaces dentro del acordeón */
     padding: 0.5rem 0;
     display: block;
 }
@@ -89,7 +89,7 @@ body {
 }
 
 .nav-link:hover {
-    color: var(--primary-color);
+    color: #000000;
 }
 
 /* Estilos de secciones */
@@ -107,7 +107,7 @@ body {
 /*Tamaño del titulo para estudios y experiencia*/
 .section-title {
     font-size: 2rem;
-    color: var(--secondary-color);
+    color: #da981e;
     margin-bottom: 2rem;
     position: relative;
     display: inline-block;
@@ -224,7 +224,7 @@ del area de Estudios realizados y experiencia laboral*/
 /*Sección para cambiar el color del botón de enviar mensaje y el color de la letra */
 .submit-button {
     background-color: var(--primary-color);
-    color: white;
+    color: #f4f4f4;
     border: none;
     padding: 1rem;
     border-radius: 5px;
@@ -243,7 +243,7 @@ del area de Estudios realizados y experiencia laboral*/
     text-align: center;
     padding: 1rem;
     background-color: var(--secondary-color);
-    color: white;
+    color: #000000;
 }
 
 /* Media Queries para responsividad  ¡¡¡No tocar, nos da diseño responsive!!! */
@@ -278,5 +278,6 @@ del area de Estudios realizados y experiencia laboral*/
     }
 
 }
+
 
 
