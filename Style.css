@@ -2,8 +2,8 @@
 :root {
     --primary-color: #FF0000;
     --secondary-color: #da981e;
-    --text-color: #dddbdb;;
-    --background-color: #f4f4f4;
+    --text-color: #f4f4f4;;
+    --background-color: #000000;
     --light-gray: #ecf0f1;
 }
 
@@ -276,4 +276,5 @@ del area de Estudios realizados y experiencia laboral*/
     .list li {
         text-align: center;
     }
+
 }
