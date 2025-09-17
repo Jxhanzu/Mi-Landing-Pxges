@@ -4,7 +4,7 @@
     --secondary-color: #da981e;
     --text-color: #f4f4f4;;
     --background-color: #000000;
-    --light-gray: #ecf0f1;
+    --light-gray: #c53f17;
 }
 
 
@@ -14,7 +14,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #000000;
-    color: #f4f4f4;
+    color: #000000;
     scroll-behavior: smooth;
 }
 /*Sección para cambiar color de la barra de sección*/
@@ -162,7 +162,7 @@ del area de Estudios realizados y experiencia laboral*/
 
 .list-inline li {
     display: inline-block;
-    background-color: var(--light-gray);
+    background-color: var(--secondary-color);
     padding: 0.5rem 1rem;
     border-radius: 20px;
     margin: 0.5rem;
